@@ -1,2 +1,2 @@
-# dsa-practice-javascript
+# algorithms-exercises
 Created with CodeSandbox
